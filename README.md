@@ -1,5 +1,8 @@
 # Music
-
+  
+_Children of Zeus_  
+[NTS.LIVE](https://www.nts.live/shows/children-of-zeus)  
+  
 _Neil Bopperson_  
 [MIXCLOUD](https://www.mixcloud.com/bopperson/)  
   
