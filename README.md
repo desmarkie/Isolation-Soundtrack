@@ -8,7 +8,7 @@ _Le Mellotron_
 [MIXCLOUD](https://www.mixcloud.com/LeMellotron/)  
   
 _Sega Bodega's Soundtrack Series_  
-[NTS.LIVE](Assets/_SAMXIOC/Scenes/Main.unity)  
+[NTS.LIVE](https://www.nts.live/shows/segabodega)  
   
 _Chris Coco's Melodica_  
 [MIXCLOUD](https://www.mixcloud.com/chriscoco/)  
